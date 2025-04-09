@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "International Airline System", "International Airline System.vbproj", "{9CADCFB8-7033-4404-8FD0-A29CB7F01600}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "userform", "..\userform\userform.vbproj", "{3A9BB5EE-C160-4B77-AA19-8200D7CA4982}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "userform", "..\userform\userform.vbproj", "{537959F9-9663-4135-B711-EED3E97AC84C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{9CADCFB8-7033-4404-8FD0-A29CB7F01600}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CADCFB8-7033-4404-8FD0-A29CB7F01600}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CADCFB8-7033-4404-8FD0-A29CB7F01600}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3A9BB5EE-C160-4B77-AA19-8200D7CA4982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A9BB5EE-C160-4B77-AA19-8200D7CA4982}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3A9BB5EE-C160-4B77-AA19-8200D7CA4982}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3A9BB5EE-C160-4B77-AA19-8200D7CA4982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{537959F9-9663-4135-B711-EED3E97AC84C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537959F9-9663-4135-B711-EED3E97AC84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537959F9-9663-4135-B711-EED3E97AC84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537959F9-9663-4135-B711-EED3E97AC84C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
