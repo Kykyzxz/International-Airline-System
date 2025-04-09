@@ -40,7 +40,7 @@ Partial Class Form1
         Me.Button1.Location = New System.Drawing.Point(365, 229)
         Me.Button1.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(197, 119)
+        Me.Button1.Size = New System.Drawing.Size(288, 180)
         Me.Button1.TabIndex = 1
         Me.Button1.Text = "Button1"
         Me.Button1.UseVisualStyleBackColor = True
